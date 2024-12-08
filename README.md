@@ -20,19 +20,10 @@ OpenCV: Library for computer vision tasks.
 
 Instructions to Run
 Clone the repository:
-bash
-Copy code
 git clone <repository_url>
-
 Install dependencies:
-bash
-Copy code
-
 pip install opencv-python
 Run the script:
-bash
-Copy code
-
 python live_face_detection.py
 
 Requirements
